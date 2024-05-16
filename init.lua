@@ -940,8 +940,4 @@ vim.keymap.set('n', '<C-S-P>', function()
 end)
 vim.keymap.set('n', '<C-S-N>', function()
   harpoon:list():next()
-<<<<<<< Updated upstream
-e
-=======
 end)
->>>>>>> Stashed changes
